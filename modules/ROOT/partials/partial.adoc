@@ -1,0 +1,7 @@
+**This is** the start of reusable AsciiDoc partial.
+
+* one
+* two
+* three
+
+End of partial

@@ -1,0 +1,3 @@
+== novakmi-antora-template
+
+Simple antora template https://github.com/novakmi/novakmi-antora-template.git

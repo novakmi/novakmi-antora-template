@@ -1,0 +1,13 @@
+site:
+  title: Novakmi Antora template Site
+  start_page: novakmi-antora-template::index.adoc
+content:
+  sources:
+  - url: .
+    branches: HEAD
+ui:
+  bundle:
+    # Other good looking UI bundle
+    url: https://github.com/stephengold/antora-ui-bundle/releases/download/v-sgold250101a/ui-bundle.zip
+#    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true

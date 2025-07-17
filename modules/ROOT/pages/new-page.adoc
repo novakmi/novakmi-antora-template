@@ -1,0 +1,30 @@
+= New Page
+
+This is a new page created using Antora.
+
+Link to other page:
+
+xref:./other-page.adoc[Other]
+
+Display image from `images` directory:
+
+image::antora-gitlab.png[optional attribute,optional attribute]
+
+Include partial:
+
+include::partial$partial.adoc[]]
+
+Include example source code:
+
+[,yaml]
+----
+include::example$antora.yml[optional attribute,optional attribute]
+----
+
+Get/play notification sound (https://pixabay.com/sound-effects/notification-ping-335500/):
+
+xref:attachment$notification-ping-335500.mp3[sound]
+
+Get/play video (https://pixabay.com/sound-effects/notification-ping-335500/):
+
+xref:attachment$856787-hd_1920_1080_30fps.mp4[video]
