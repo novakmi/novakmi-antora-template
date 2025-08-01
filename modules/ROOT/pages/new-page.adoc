@@ -1,3 +1,5 @@
+:stem:
+
 = New Page
 
 This is a new page created using Antora.
@@ -28,3 +30,5 @@ xref:attachment$notification-ping-335500.mp3[sound]
 Get/play video (https://pixabay.com/sound-effects/notification-ping-335500/):
 
 xref:attachment$856787-hd_1920_1080_30fps.mp4[video]
+
+Support for stem: stem:[a^2 + b^2 = c^2]
